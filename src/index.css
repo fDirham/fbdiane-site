@@ -1,0 +1,21 @@
+:root {
+  font-family: "Instrument Sans", sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+
+  --font-sans: "Instrument Sans", sans-serif;
+  --font-serif: "Instrument Serif", serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  color: #434039;
+  background: #faf8f1;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
