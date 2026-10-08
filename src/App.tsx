@@ -56,7 +56,7 @@ function App() {
             pinterest
           </a>
           <a href={LINKTREE_URL} target="_blank" rel="noopener noreferrer">
-            linktree
+            @fbdiane
           </a>
           <a href={ELLIPSUS_URL} target="_blank" rel="noopener noreferrer">
             ellipsus
