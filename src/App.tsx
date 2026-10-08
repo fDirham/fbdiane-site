@@ -1,5 +1,12 @@
 import "./App.css";
 
+const GET_NOTIFIED_URL =
+  "https://docs.google.com/forms/d/e/1FAIpQLSfdHojrnOG4evhgf3NyVDXZcSza8mUY4vk0uetv00UhamCvwg/viewform?usp=publish-editor";
+const LINKTREE_URL = "https://linktr.ee/fbdiane";
+const PINTEREST_URL = "https://www.pinterest.com/team2120/ariadnes-game/";
+const ELLIPSUS_URL =
+  "https://ellipsus.com/read/4DbfK3SXgaezoJEooDMbvl/Ariadnes-Game-Public-Sample";
+
 function App() {
   return (
     <main className="landing-page">
@@ -33,16 +40,27 @@ function App() {
           </p>
         </div>
 
-        <a className="notify-link" href="#notify">
+        <a
+          className="notify-link"
+          href={GET_NOTIFIED_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           GET NOTIFIED
         </a>
       </section>
 
       <footer className="site-footer">
         <nav className="social-links" aria-label="Social links">
-          <a href="#pinterest">pinterest</a>
-          <a href="#instagram">@fbdiane</a>
-          <a href="#writing">writing</a>
+          <a href={PINTEREST_URL} target="_blank" rel="noopener noreferrer">
+            pinterest
+          </a>
+          <a href={LINKTREE_URL} target="_blank" rel="noopener noreferrer">
+            linktree
+          </a>
+          <a href={ELLIPSUS_URL} target="_blank" rel="noopener noreferrer">
+            ellipsus
+          </a>
         </nav>
       </footer>
     </main>
