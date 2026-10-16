@@ -34,9 +34,14 @@ function AriadnesGamePage() {
             and becoming queen.
           </p>
           <p>
-            She participates in a mind-bending game to test into war-college,
-            partnering with a charming lowborn who is secretly an anarchist
-            rebel.
+            She participates in a mysterious game to test into war-college and
+            forces a handsome lowborn to be her partner.
+          </p>
+          <p>A charming, talented lowborn; who's secretly a dangerous rebel.</p>
+          <p>
+            Unbeknownst to both of them, the game simulates fifty years of their
+            lives as they're transported to a foreign world. A world filled with
+            barbarians, monsters, and gods.
           </p>
         </div>
 
