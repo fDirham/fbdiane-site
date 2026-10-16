@@ -35,9 +35,9 @@ function AriadnesGamePage() {
           </p>
           <p>
             She participates in a mysterious game to test into war-college and
-            forces a handsome lowborn to be her partner.
+            forces a charming lowborn to be her partner.
           </p>
-          <p>A charming, talented lowborn; who's secretly a dangerous rebel.</p>
+          <p>A handsome, talented lowborn, who's secretly a dangerous rebel.</p>
           <p>
             Unbeknownst to both of them, the game simulates fifty years of their
             lives as they're transported to a foreign world. A world filled with
