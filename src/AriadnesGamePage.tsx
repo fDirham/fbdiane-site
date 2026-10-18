@@ -3,9 +3,6 @@ import "./AriadnesGamePage.css";
 const GET_NOTIFIED_URL =
   "https://docs.google.com/forms/d/e/1FAIpQLSfdHojrnOG4evhgf3NyVDXZcSza8mUY4vk0uetv00UhamCvwg/viewform?usp=publish-editor";
 const LINKTREE_URL = "https://linktr.ee/fbdiane";
-const PINTEREST_URL = "https://www.pinterest.com/team2120/ariadnes-game/";
-const ELLIPSUS_URL =
-  "https://ellipsus.com/read/4DbfK3SXgaezoJEooDMbvl/Ariadnes-Game-Public-Sample";
 
 function AriadnesGamePage() {
   return (
@@ -34,13 +31,12 @@ function AriadnesGamePage() {
             and becoming queen.
           </p>
           <p>
-            She participates in a mysterious game to test into war-college and
-            forces a charming lowborn to be her partner.
+            She partners up with a charming rebel in what's supposed to be a
+            simple game to test into war-college.
           </p>
-          <p>A handsome, talented lowborn, who's secretly a dangerous rebel.</p>
           <p>
-            Unbeknownst to both of them, the game simulates fifty years of their
-            lives as they're transported to a foreign world. A world filled with
+            Unbeknownst to them, the game simulates fifty years of their lives
+            as they're transported to a foreign world. A world filled with
             barbarians, monsters, and gods.
           </p>
         </div>
@@ -57,14 +53,8 @@ function AriadnesGamePage() {
 
       <footer className="site-footer">
         <nav className="social-links" aria-label="Social links">
-          <a href={PINTEREST_URL} target="_blank" rel="noopener noreferrer">
-            pinterest
-          </a>
           <a href={LINKTREE_URL} target="_blank" rel="noopener noreferrer">
             @fbdiane
-          </a>
-          <a href={ELLIPSUS_URL} target="_blank" rel="noopener noreferrer">
-            ellipsus
           </a>
         </nav>
       </footer>
